@@ -30,6 +30,11 @@ p:last-child {
   margin-bottom: 0;
 }
 
+p{
+  padding-left: 230px;
+  padding-right: 50px;
+}
+
 h1,
 h2,
 h3 {
@@ -65,7 +70,7 @@ h3 {
 
 #logo {
   float: left;
-  width: 250px;
+  width: 400px;
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 30px;
@@ -182,6 +187,10 @@ h3, h2 {
   margin-bottom: 20px;
 }
 
+.img-thumbnail{
+  background-color: #4aaaa5;
+}
+
 #contact-form li {
   margin-bottom: 10px;
 }
@@ -215,3 +224,5 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+
